@@ -1,0 +1,5 @@
+E:\@udemy\SolidPracticeProject\SolidPracticeMay2022\SolidPracticeMay2022\obj\Debug\net5.0\SolidPracticeMay2022.csproj.AssemblyReference.cache
+E:\@udemy\SolidPracticeProject\SolidPracticeMay2022\SolidPracticeMay2022\obj\Debug\net5.0\SolidPracticeMay2022.GeneratedMSBuildEditorConfig.editorconfig
+E:\@udemy\SolidPracticeProject\SolidPracticeMay2022\SolidPracticeMay2022\obj\Debug\net5.0\SolidPracticeMay2022.AssemblyInfoInputs.cache
+E:\@udemy\SolidPracticeProject\SolidPracticeMay2022\SolidPracticeMay2022\obj\Debug\net5.0\SolidPracticeMay2022.AssemblyInfo.cs
+E:\@udemy\SolidPracticeProject\SolidPracticeMay2022\SolidPracticeMay2022\obj\Debug\net5.0\SolidPracticeMay2022.csproj.CoreCompileInputs.cache
